@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(black,white,black);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+.commonheigth {
+    height: 15%;
+}
+.appheigth{
+    height: 70%;
+}
+.clearfix {
+    overflow: auto;
+}
+.tacentre{
+    text-align: center;
+}
+.wid100{
+    width: 100%;
+}
+.sponsor{
+    width: 10%;
+}
